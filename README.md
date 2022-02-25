@@ -14,7 +14,7 @@
 </p><br>
 
 
-# Substantivator
+# Substantivator [DOWNLOAD THE INSTALLER HERE](https://github.com/hansalemaos/Substantivator/raw/main/substantivator_setup.exe)
 
 
 
